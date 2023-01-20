@@ -1,0 +1,170 @@
+  body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    background-color: #edf6f7;
+  }
+
+  h1 {
+    text-align: center;
+    font-weight: 800;
+  }
+
+  h2 {
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 15px;
+  }
+
+  h3 {
+    font-weight: 600;
+    padding: 10px;
+    text-align: center;
+  }
+
+  h4 {
+    font-weight: 700;
+  }
+
+  #despre-noi {
+    height: 140px;
+  }
+
+  #evenimente {
+    height: 140px;
+  }
+
+  #lineup {
+    height: 140px;
+  }
+
+  #faq {
+    height: 140px;
+  }
+
+  #testimoniale {
+    height: 140px;
+  }
+
+  .navbar {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .bg-dark {
+    background-color: #2299aa !important;
+  }
+
+  .navbar li {
+    margin: 0 0 0 30px;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .nav-link {
+    color: #000;
+  }
+
+  .navbar li a:hover {
+      text-decoration: none;
+      color: #edf6f7;
+  }
+
+  .logo {
+      height: 110px;
+  }
+
+  .row .despre-noi-row {
+    align-items: center;
+  }
+
+  .despre-noi {
+    padding: 50px;
+  }
+
+  .despre-noi img {
+    width: 80%;
+  }
+
+  .paragraf-centrat {
+    text-align: center;
+  }
+
+  .fundal-despre-noi {
+    background-color: #ffffff;
+    margin-bottom: 25px;
+  }
+
+  .card.carduri-lineup {
+    background-color: #2299aa;
+  }
+
+  .carduri-lineup p {
+    text-align: center;
+  }
+
+  .col-lg-6.testimoniale {
+    background-color: #ffffff;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 35px;
+  }
+
+  .col-lg-6.testimoniale img {
+    padding-right: 15px;
+    border-radius: 50%;
+    width: 40%;
+  }
+
+  .col-lg-6.testimoniale p {
+    font-style: italic;
+  }
+
+  .card {
+    padding-bottom: 15px;
+    --bs-card-border-width: 0;
+  }
+
+  .badge.rounded-pill.text-bg-primary {
+    background-color: #2299aa !important;
+    text-transform: uppercase;
+    margin-top: 10px;
+  }
+
+  .container-fluid.footer {
+    background-color: #2299aa;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .container-fluid.footer img {
+    width: 30%;
+  }
+
+  .container-fluid.footer a {
+    text-decoration: none;
+    color: #000000;
+  }
+
+  .container-fluid.footer a:hover {
+    color: #edf6f7;
+  }
+
+  .copyrights {
+    text-align: center;
+    padding-top: 15px;
+  }
+
+  .col-md-6.sectiune-contact {
+    text-align: center;
+  }
+
+  .row.aliniere-footer {
+    align-items: center;
+  }
+
+  .fa {
+    text-decoration: none;
+    font-size: xx-large !important;
+    padding: 10px;
+  }
+
